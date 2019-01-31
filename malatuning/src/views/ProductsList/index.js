@@ -41,7 +41,7 @@ class ProductList extends Component {
             </Typography>
           </CardContent>
           <CardActions>
-            <Button href={url} size="small" color="primary">
+            <Button target="_blank" href={url} size="small" color="primary">
               View
             </Button>
             <Button size="small" color="primary">
